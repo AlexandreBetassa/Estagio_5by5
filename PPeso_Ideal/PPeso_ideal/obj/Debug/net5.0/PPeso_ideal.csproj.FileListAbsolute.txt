@@ -1,0 +1,16 @@
+C:\Users\Alexandre\Desktop\Aulas\Ex_C#\PPeso_ideal\PPeso_ideal\PPeso_ideal\bin\Debug\net5.0\PPeso_ideal.exe
+C:\Users\Alexandre\Desktop\Aulas\Ex_C#\PPeso_ideal\PPeso_ideal\PPeso_ideal\bin\Debug\net5.0\PPeso_ideal.deps.json
+C:\Users\Alexandre\Desktop\Aulas\Ex_C#\PPeso_ideal\PPeso_ideal\PPeso_ideal\bin\Debug\net5.0\PPeso_ideal.runtimeconfig.json
+C:\Users\Alexandre\Desktop\Aulas\Ex_C#\PPeso_ideal\PPeso_ideal\PPeso_ideal\bin\Debug\net5.0\PPeso_ideal.runtimeconfig.dev.json
+C:\Users\Alexandre\Desktop\Aulas\Ex_C#\PPeso_ideal\PPeso_ideal\PPeso_ideal\bin\Debug\net5.0\PPeso_ideal.dll
+C:\Users\Alexandre\Desktop\Aulas\Ex_C#\PPeso_ideal\PPeso_ideal\PPeso_ideal\bin\Debug\net5.0\PPeso_ideal.pdb
+C:\Users\Alexandre\Desktop\Aulas\Ex_C#\PPeso_ideal\PPeso_ideal\PPeso_ideal\obj\Debug\net5.0\PPeso_ideal.csproj.AssemblyReference.cache
+C:\Users\Alexandre\Desktop\Aulas\Ex_C#\PPeso_ideal\PPeso_ideal\PPeso_ideal\obj\Debug\net5.0\PPeso_ideal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre\Desktop\Aulas\Ex_C#\PPeso_ideal\PPeso_ideal\PPeso_ideal\obj\Debug\net5.0\PPeso_ideal.AssemblyInfoInputs.cache
+C:\Users\Alexandre\Desktop\Aulas\Ex_C#\PPeso_ideal\PPeso_ideal\PPeso_ideal\obj\Debug\net5.0\PPeso_ideal.AssemblyInfo.cs
+C:\Users\Alexandre\Desktop\Aulas\Ex_C#\PPeso_ideal\PPeso_ideal\PPeso_ideal\obj\Debug\net5.0\PPeso_ideal.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\Desktop\Aulas\Ex_C#\PPeso_ideal\PPeso_ideal\PPeso_ideal\obj\Debug\net5.0\PPeso_ideal.dll
+C:\Users\Alexandre\Desktop\Aulas\Ex_C#\PPeso_ideal\PPeso_ideal\PPeso_ideal\obj\Debug\net5.0\refint\PPeso_ideal.dll
+C:\Users\Alexandre\Desktop\Aulas\Ex_C#\PPeso_ideal\PPeso_ideal\PPeso_ideal\obj\Debug\net5.0\PPeso_ideal.pdb
+C:\Users\Alexandre\Desktop\Aulas\Ex_C#\PPeso_ideal\PPeso_ideal\PPeso_ideal\obj\Debug\net5.0\PPeso_ideal.genruntimeconfig.cache
+C:\Users\Alexandre\Desktop\Aulas\Ex_C#\PPeso_ideal\PPeso_ideal\PPeso_ideal\obj\Debug\net5.0\ref\PPeso_ideal.dll

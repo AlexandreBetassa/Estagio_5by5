@@ -1,0 +1,16 @@
+C:\Users\Alexandre\Desktop\Aulas\Ex_C#\Salario\PSalario\PSalario\bin\Debug\net5.0\PSalario.exe
+C:\Users\Alexandre\Desktop\Aulas\Ex_C#\Salario\PSalario\PSalario\bin\Debug\net5.0\PSalario.deps.json
+C:\Users\Alexandre\Desktop\Aulas\Ex_C#\Salario\PSalario\PSalario\bin\Debug\net5.0\PSalario.runtimeconfig.json
+C:\Users\Alexandre\Desktop\Aulas\Ex_C#\Salario\PSalario\PSalario\bin\Debug\net5.0\PSalario.runtimeconfig.dev.json
+C:\Users\Alexandre\Desktop\Aulas\Ex_C#\Salario\PSalario\PSalario\bin\Debug\net5.0\PSalario.dll
+C:\Users\Alexandre\Desktop\Aulas\Ex_C#\Salario\PSalario\PSalario\bin\Debug\net5.0\PSalario.pdb
+C:\Users\Alexandre\Desktop\Aulas\Ex_C#\Salario\PSalario\PSalario\obj\Debug\net5.0\PSalario.csproj.AssemblyReference.cache
+C:\Users\Alexandre\Desktop\Aulas\Ex_C#\Salario\PSalario\PSalario\obj\Debug\net5.0\PSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre\Desktop\Aulas\Ex_C#\Salario\PSalario\PSalario\obj\Debug\net5.0\PSalario.AssemblyInfoInputs.cache
+C:\Users\Alexandre\Desktop\Aulas\Ex_C#\Salario\PSalario\PSalario\obj\Debug\net5.0\PSalario.AssemblyInfo.cs
+C:\Users\Alexandre\Desktop\Aulas\Ex_C#\Salario\PSalario\PSalario\obj\Debug\net5.0\PSalario.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\Desktop\Aulas\Ex_C#\Salario\PSalario\PSalario\obj\Debug\net5.0\PSalario.dll
+C:\Users\Alexandre\Desktop\Aulas\Ex_C#\Salario\PSalario\PSalario\obj\Debug\net5.0\refint\PSalario.dll
+C:\Users\Alexandre\Desktop\Aulas\Ex_C#\Salario\PSalario\PSalario\obj\Debug\net5.0\PSalario.pdb
+C:\Users\Alexandre\Desktop\Aulas\Ex_C#\Salario\PSalario\PSalario\obj\Debug\net5.0\PSalario.genruntimeconfig.cache
+C:\Users\Alexandre\Desktop\Aulas\Ex_C#\Salario\PSalario\PSalario\obj\Debug\net5.0\ref\PSalario.dll
